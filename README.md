@@ -1,6 +1,6 @@
 # megadecrypter-js
 
-This bookmarklet decrypts `mega://enc2` links on browser
+This bookmarklet decrypts `mega://enc2` links on browser without megadonwloader.
 
 ## Requirements
 - Any browser which can execute Javascript.
