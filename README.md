@@ -6,8 +6,7 @@ This bookmarklet decrypts `mega://enc2` links on browser
 - Any browser which can execute Javascript.
 
 ## Installation
-See (documents)[docs/index.html]
-
+See [document](https://msglight4874.github.io/megadecrypter-js/).
 ## Usage
 
 Click the bookmarklet.
